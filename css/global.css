@@ -1,0 +1,45 @@
+html {
+    font-family: Open Sans;
+}
+
+.img {
+    width: 100%;
+}
+
+h2 {
+    color: #333;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 48px;
+    padding-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    color: #236F9F;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.intro {
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 42px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+/* -------------------------------------------------------------------------------------------------- */
+.title-icon-image {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
+    padding-top: 31px;
+}

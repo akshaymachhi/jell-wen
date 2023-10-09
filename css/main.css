@@ -1,0 +1,27 @@
+
+@import "./global.css";
+
+@import "./nav.css";
+@import "./banner.css";
+@import "./config.css";
+@import "./feature-content.css";
+@import "./feature-icon.css";
+@import "./feature-small-image.css";
+@import "./card.css";
+@import "./footer.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ----------------------------------------------BANNER--------------------------------------- */
+
+.banner-image img {
+    width: 100%;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+
